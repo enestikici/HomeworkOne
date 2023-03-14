@@ -21,7 +21,7 @@ _this_ will be italic
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-This **_italic bold**
+This **_italic bold**_ 
 
 **Question 4** With Markdown write an unordered list with three items.
 
